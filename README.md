@@ -1,3 +1,4 @@
+![1000035256](https://github.com/user-attachments/assets/5cedf57d-c981-41f8-9f51-7b7e8e2f143d)
 Tutorial Pemakaian.
 
 pkg update && pkg upgrade
