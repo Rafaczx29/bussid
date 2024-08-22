@@ -2,6 +2,7 @@
 Tutorial Pemakaian.
 
 => password: 1day
+
 pkg update && pkg upgrade
 
 pkg install git
